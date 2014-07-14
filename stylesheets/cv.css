@@ -1,4 +1,4 @@
-#nav ul {
+nav ul {
 	margin: 0px;
 	list-style-type: none;
 	float: right;
@@ -7,7 +7,7 @@
 	padding-bottom: 0px;
 	padding-left: 0px;
 }
-#nav ul li a {
+nav ul li a {
 	text-decoration: none;
 	width: 120px;
 	color: #FFF;
@@ -24,6 +24,6 @@
 	padding-top: 3px;
 	padding-bottom: 3px;
 }
-#nav ul li a:hover {
+nav ul li a:hover {
 	color: #F00;
 }
