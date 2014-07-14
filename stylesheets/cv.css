@@ -12,14 +12,14 @@ nav ul {
 	width: 530px;
 }
 
-
 nav ul li {
 	display: inline;
 }
+
 nav ul li a {
 	display: block;
 	float: left;
-	width: 130px;
+	width: 180px;
 	color: #FFF;
 	font-weight: bold;
 	list-style-type: none;
@@ -29,6 +29,7 @@ nav ul li a {
 	font-size: 14px;
 	padding-top: 2px;
 }
+
 nav ul li a:hover {
 	background-color: #12AFEB;
 	color: #d5000d;
