@@ -30,7 +30,7 @@ nav ul li a {
 	padding-top: 2px;
 }
 
-nav ul li a:hover {
+nav ul li #kaixo:hover {
 	background-color: #12AFEB;
 	color: #d5000d;
 }
