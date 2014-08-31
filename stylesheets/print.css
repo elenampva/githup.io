@@ -26,9 +26,9 @@ footer, header, hgroup, menu, nav, section {
 body {
   line-height: 1;
 }
-ol, ul {
+/*ol, ul {
   list-style: none;
-}
+}*/
 blockquote, q {
   quotes: none;
 }
@@ -48,10 +48,10 @@ body {
   color: #000;
 }
 
-a {
+/*a {
   color: #d5000d;
   font-weight: bold;
-}
+}*/
 
 header {
   padding-top: 35px;
